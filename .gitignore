@@ -73,3 +73,20 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Package manager / lock files (optional)
+package-lock.json
+yarn.lock
+npm-debug.log
+
+# Optional: ignore local build output folder at repo root
+# /Build/
